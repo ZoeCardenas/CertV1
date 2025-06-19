@@ -1,0 +1,12 @@
+# Archivos sensibles
+.env
+config.json
+
+# Logs
+*.log
+pm2.log
+
+# Sistema
+node_modules/
+.DS_Store
+*.swp
